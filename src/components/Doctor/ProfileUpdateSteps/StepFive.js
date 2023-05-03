@@ -37,7 +37,7 @@ const StepFive = ({ responsestep, id }) => {
   return (
     <div className="step">
       <div className="mb-4">
-        <h6>Council hour</h6>
+        <h6>Counsellation hour</h6>
       </div>
       <form onSubmit={handleSubmit(onSubmit)}>
         <div className="row mb-2">

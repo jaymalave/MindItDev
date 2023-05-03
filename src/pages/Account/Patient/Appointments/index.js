@@ -118,7 +118,7 @@ const Index = () => {
                                   )
                                 }
                               >
-                                go council
+                                Chat
                               </button>
                             )}
                           </td>

@@ -149,7 +149,7 @@ const Show = () => {
 
                 {/* Council hour */}
                 <div className="council-hour pb-4">
-                  <h5 className="mb-0">Council hour</h5>
+                  <h5 className="mb-0">Counsellation hour</h5>
                   <hr className="my-1" />
                   <table className="table table-sm table-bordered">
                     <thead>
